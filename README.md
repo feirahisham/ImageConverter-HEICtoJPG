@@ -1,5 +1,5 @@
-# ImageConverter-HEICtoJPG
-Image converter from .HEIC file to .JPG format
+# ImageConverters
+Image converter using python image library
 
 
 This repsitory consists of python programming files meant for converting images of one extension to another!
